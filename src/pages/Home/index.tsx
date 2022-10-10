@@ -13,7 +13,7 @@ function Home() {
       <div
         className="container-fluid border d-flex align-items-center justify-content-center colorCallToAction"
       >
-        <h2 className="m-auto">Venha conhecer e aprender sobre Reciclagem</h2>
+        <h1 className="m-auto">Venha conhecer e aprender sobre Reciclagem</h1>
       </div>
       <MapaReciclagem />
       <CardsInfo />
