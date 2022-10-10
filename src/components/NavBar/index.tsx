@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import "./style.css";
 
 const logo = require("../../assets/img/logo.png") as string;
 
@@ -13,7 +14,7 @@ const styleImg = {
 const Navbar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-lg navbar-dark tatic-top">
+      <nav className="navbar navbar-expand-lg tatic-top shift">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/home">
             <img src={logo} alt="ReciclaRec" style={styleImg} />
