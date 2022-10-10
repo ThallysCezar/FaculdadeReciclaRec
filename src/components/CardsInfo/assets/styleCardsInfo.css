@@ -1,9 +1,9 @@
 .card-bg-color {
-    background: #17ACFF;
+    background-color: rgba(23, 172, 255, 1);
 }
 
 .border {
-    border-color: #17ACFF;
+    border-color: rgba(23, 172, 255, 1);
 }
 
 .cardes {
@@ -33,7 +33,7 @@
 
 .cardes:hover .btn-outline-primary {
     color: white;
-    background: #007bff;
+    background: rgba(23, 172, 255, 1);
 }
 
 .button-select {
