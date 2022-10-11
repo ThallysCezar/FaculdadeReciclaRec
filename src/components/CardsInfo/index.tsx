@@ -16,12 +16,11 @@ const CardsInfo = () => {
                     <br />
                   </div>
                   <p className="cardes-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Doloribus provident, adipisci ipsa ex, a esse tempora totam
-                    sequi asperiores sapiente consequuntur dolor excepturi quis
-                    aperiam in ut repellendus vel eligendi? sequi asperiores
-                    sapiente consequuntur dolor excepturi quis aperiam in ut
-                    repellendus vel eligendi
+                    A reciclagem é o processo de reaproveitamento do lixo
+                    descartado, dando origem a um novo produto ou a uma nova
+                    matéria-prima com o objetivo de diminuir a produção de
+                    rejeitos e o seu acúmulo na natureza, reduzindo o impacto
+                    ambiental
                   </p>
                 </div>
               </div>
@@ -37,12 +36,11 @@ const CardsInfo = () => {
                     <br />
                   </div>
                   <p className="cardes-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Doloribus provident, adipisci ipsa ex, a esse tempora totam
-                    sequi asperiores sapiente consequuntur dolor excepturi quis
-                    aperiam in ut repellendus vel eligendi? sequi asperiores
-                    sapiente consequuntur dolor excepturi quis aperiam in ut
-                    repellendus vel eligendi
+                    A reciclagem serve para dar nova vida aos resíduos, evitando
+                    o desperdício, o impacto ambiental e os problemas
+                    sanitários. Com a reciclagem, um material que foi jogado na
+                    lixeira reciclável pode virar o mesmo produto ou ser
+                    transformado em algo com outra utilidade.
                   </p>
                 </div>
               </div>
@@ -51,18 +49,17 @@ const CardsInfo = () => {
             </div>
             <div className="col-lg-4 col-md-12 mb-4">
               <div className="cardes h-100 shadow-lg">
-              <div className="cardes-body">
+                <div className="cardes-body">
                   <div className="text-center p-3">
                     <h2 className="cardes-title">Qual a sua importância?</h2>
                     <br />
                   </div>
                   <p className="cardes-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Doloribus provident, adipisci ipsa ex, a esse tempora totam
-                    sequi asperiores sapiente consequuntur dolor excepturi quis
-                    aperiam in ut repellendus vel eligendi? sequi asperiores
-                    sapiente consequuntur dolor excepturi quis aperiam in ut
-                    repellendus vel eligendi
+                    O processo de reciclagem é o método mais limpo e eficiente
+                    para tratar os resíduos. Já na parte social, ele é essencial
+                    para sustentar milhões de catadores que dependem da venda
+                    desses itens recicláveis para sobreviver e manter suas
+                    famílias.
                   </p>
                 </div>
               </div>

@@ -45,6 +45,7 @@ export const MapaReciclagem = () => {
           <br />
           <br />
           <br />
+          <br />
           <div className="row justify-content-center">
           {imgs.map((item) => {
             return (
@@ -63,8 +64,6 @@ export const MapaReciclagem = () => {
           </div>
         </div>
       </div>
-      <br />
-      <br />
       <br />
     </>
     
