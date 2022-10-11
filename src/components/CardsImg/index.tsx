@@ -31,17 +31,7 @@ const CardsImg = () => {
 
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Fugiat aperiam mollitia animi dignissimos
-                          praesentium, voluptatibus libero voluptatum, illum,
-                          repellat laborum exercitationem reiciendis quos
-                          blanditiis! Doloribus, blanditiis. Quo placeat vel
-                          inventore.Lorem ipsum dolor sit amet consectetur
-                          adipisicing elit. Fugiat aperiam mollitia animi
-                          dignissimos praesentium, voluptatibus libero
-                          voluptatum, illum, repellat laborum exercitationem
-                          reiciendis quos blanditiis! Doloribus, blanditiis. Quo
-                          placeat vel inventore.
+                          No cidades Inteligentes divulgaremos Projetos de Reciclagem de impacto para a sociedade
                         </p>
                         <div className="d-flex align-items-center justify-content-center pb-4">
                           <Link className="nav-link" aria-current="page" to="/cidades">
@@ -75,17 +65,7 @@ const CardsImg = () => {
                       </div>
                       <div>
                         <p>
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Fugiat aperiam mollitia animi dignissimos
-                          praesentium, voluptatibus libero voluptatum, illum,
-                          repellat laborum exercitationem reiciendis quos
-                          blanditiis! Doloribus, blanditiis. Quo placeat vel
-                          inventore.Lorem ipsum dolor sit amet consectetur
-                          adipisicing elit. Fugiat aperiam mollitia animi
-                          dignissimos praesentium, voluptatibus libero
-                          voluptatum, illum, repellat laborum exercitationem
-                          reiciendis quos blanditiis! Doloribus, blanditiis. Quo
-                          placeat vel inventore.
+                          No Repense traremos problemáticas que impactam de forma negativa a sociedade em relação ao lixo.
                         </p>
                         <div className="d-flex align-items-center justify-content-center pb-4">
                           <Link className="nav-link" aria-current="page" to="/cidades">

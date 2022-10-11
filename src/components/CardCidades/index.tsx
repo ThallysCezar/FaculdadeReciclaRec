@@ -33,10 +33,9 @@ const CardCidades = () => {
             <div className="col-md-6 text-center">
             <h3 className="d-flex justify-content-start">Recife</h3><br /><br />
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, deserunt. Doloremque, animi labore molestias voluptates, incidunt aut, iste non iusto sapiente quia commodi nemo vero? Nobis, distinctio? Architecto, voluptatem ab.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, deserunt. Doloremque, animi labore molestias voluptates, incidunt aut, iste non iusto sapiente quia commodi nemo vero? Nobis, distinctio? Architecto, voluptatem ab.
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, deserunt. Doloremque, animi labore molestias voluptates, incidunt aut, iste non iusto sapiente quia commodi nemo vero? Nobis, distinctio? Architecto, voluptatem ab.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, deserunt. Doloremque, animi labore molestias voluptates, incidunt aut, iste non iusto sapiente quia commodi nemo vero? Nobis, distinctio? Architecto, voluptatem ab.Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maxime, deserunt. Doloremque, animi labore molestias voluptates, incidunt aut, iste non iusto sapiente quia commodi nemo vero? Nobis, distinctio? Architecto, voluptatem ab.
+                Com artesanato, mulheres de PE reciclam 1 tonelada de plástico por mês... - Veja mais em
               </p>
+              <a className="text-decoration-none" href="https://www.uol.com.br/ecoa/ultimas-noticias/2021/10/22/mulheres-de-pe-tiram-1t-de-plastico-de-circulacao-e-criam-objetos-para-casa.html?cmpid=copiaecola" target="_blank" rel="noreferrer">Link para mais informações</a>
           </div>
         </div>
         <br />

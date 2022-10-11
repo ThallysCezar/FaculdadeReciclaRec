@@ -38,31 +38,35 @@ const imgs = [
 
 export const MapaReciclagem = () => {
   return (
-    <div className="container">
-      <div className="row">
-        <h2 className="text-center mt-2"> Mapa da Reciclagem</h2>
-        <br />
-        <br />
-        <br />
-        <br />
-        <br />
-        <div className="row justify-content-center">
-        {imgs.map((item) => {
-          return (
-              <div className="col-md-auto">
-                <figure>
-                  <img
-                    src={item.path}
-                    alt={item.alt}
-                    className="mx-auto d-block styleImg"
-                  />
-                  <p className="text-center">{item.caption}</p>
-                </figure>
-              </div>
-          );
-        })}
+    <>
+      <div className="container">
+        <div className="row">
+          <h2 className="text-center mt-2"> Mapa da Reciclagem</h2>
+          <br />
+          <br />
+          <br />
+          <div className="row justify-content-center">
+          {imgs.map((item) => {
+            return (
+                <div className="col-md-auto">
+                  <figure>
+                    <img
+                      src={item.path}
+                      alt={item.alt}
+                      className="mx-auto d-block styleImg"
+                    />
+                    <p className="text-center">{item.caption}</p>
+                  </figure>
+                </div>
+            );
+          })}
+          </div>
         </div>
       </div>
-    </div>
+      <br />
+      <br />
+      <br />
+    </>
+    
   );
 };
