@@ -2,7 +2,7 @@ import { GiDeathStar } from "react-icons/gi";
 import { FaFacebook, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import "./assets/style.css";
 
-const eu = require("../../assets/img/agoraSim.png") as string;
+const thallys = require("../../assets/img/Thallys.png") as string;
 const bea = require("../../assets/img/Bea.png") as string;
 
 const QSInfo = () => {
@@ -21,7 +21,7 @@ const QSInfo = () => {
                         <div className="text-center">
                             <figure>
                             <img
-                                src={eu}
+                                src={thallys}
                                 width="250"
                                 className="rounded-circle"
                                 alt="Imagem de Thallys"
