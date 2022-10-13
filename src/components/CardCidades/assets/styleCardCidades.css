@@ -67,3 +67,13 @@
         width: 400px;
     }
 }
+
+@media screen and (min-width: 320px) and (max-width: 499px) {
+    .imgWidth {
+        width: 290px;
+    }
+
+    .imgWidthRecife {
+        width: 290px;
+    }
+}

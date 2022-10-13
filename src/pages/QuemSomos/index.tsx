@@ -11,8 +11,8 @@ function QuemSomos() {
       <div
         className="container-fluid border d-flex align-items-center justify-content-center colorCallToAction"
       >
+        <h1 className="text-center">Quem somos</h1>
       </div><br />
-      <h2 className="text-center">QUEM SOMOS</h2>
       <QSInfo />
       <Footer />
     </>

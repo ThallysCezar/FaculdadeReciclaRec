@@ -14,7 +14,9 @@ const CardsImg = () => {
             <div className="col-xl-10">
               <div className="card rounded-3 text-black border-primary">
                 <div className="row g-0">
-                  <div className="col-lg-6 d-flex align-items-center justify-content-center bg-color"> {/* botar o negocio da cor bg-color*/}
+                  <div className="col-lg-6 d-flex align-items-center justify-content-center bg-color">
+                    {" "}
+                    {/* botar o negocio da cor bg-color*/}
                     <figure>
                       <img
                         src={city}
@@ -28,18 +30,23 @@ const CardsImg = () => {
                       <div className="text-center">
                         <h4 className="mt-1 mb-5 pb-1">Cidades Inteligentes</h4>
                       </div>
-
                       <div>
                         <p>
-                          No cidades Inteligentes divulgaremos Projetos de Reciclagem de impacto para a sociedade
+                          No cidades Inteligentes divulgaremos Projetos de
+                          Reciclagem de impacto para a sociedade
                         </p>
                         <div className="d-flex align-items-center justify-content-center pb-4">
-                          <Link className="nav-link" aria-current="page" to="/cidades">
-                              <button
-                                  type="button"
-                                  className="btn btn-outline-primary botao-margin">
-                                  Conheça
-                              </button>
+                          <Link
+                            className="nav-link"
+                            aria-current="page"
+                            to="/cidades"
+                          >
+                            <button
+                              type="button"
+                              className="btn btn-outline-primary botao-margin"
+                            >
+                              Conheça
+                            </button>
                           </Link>
                         </div>
                       </div>
@@ -65,14 +72,20 @@ const CardsImg = () => {
                       </div>
                       <div>
                         <p>
-                          No Repense traremos problemáticas que impactam de forma negativa a sociedade em relação ao lixo.
+                          No Repense traremos problemáticas que impactam de
+                          forma negativa a sociedade em relação ao lixo.
                         </p>
                         <div className="d-flex align-items-center justify-content-center pb-4">
-                          <Link className="nav-link" aria-current="page" to="/cidades">
+                          <Link
+                            className="nav-link"
+                            aria-current="page"
+                            to="/cidades"
+                          >
                             <button
-                                type="button"
-                                className="btn btn-outline-primary botao-margin">
-                                Conheça
+                              type="button"
+                              className="btn btn-outline-primary botao-margin"
+                            >
+                              Conheça
                             </button>
                           </Link>
                         </div>

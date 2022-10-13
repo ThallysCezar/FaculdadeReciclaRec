@@ -4,7 +4,7 @@ const CardsInfo = () => {
   return (
     <>
       <div className="container-fluid">
-        <div className="container p-5">
+        <div className="container p-5 m-auto">
           <div className="row">
             {/* Card 1 */}
             <div className="col-lg-4 col-md-12 mb-4">
@@ -51,7 +51,7 @@ const CardsInfo = () => {
               <div className="cardes h-100 shadow-lg">
                 <div className="cardes-body">
                   <div className="text-center p-3">
-                    <h2 className="cardes-title">Qual a sua importância?</h2>
+                    <h2 className="cardes-title text-center">Qual a sua importância?</h2>
                     <br />
                   </div>
                   <p className="cardes-text">

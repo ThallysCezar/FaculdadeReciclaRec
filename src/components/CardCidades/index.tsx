@@ -34,11 +34,11 @@ const CardCidades = () => {
         <br />
         <br />
         <div className="row text-center">
+        <h3 className="mt-1 mb-5 pb-1">Análise seu modo de pensar</h3><br/><br/>
           <div className="col-xl-6 col-lg-7 col-md-7 col-sm-4">
             <h3 className="text-center">Repense</h3>
             <br/>
-            <br/>
-            <h3>A ausência de separação entre lixo orgânico e inorgânico não é uma boa ideia.</h3><br />
+            <h4>A ausência de separação entre lixo orgânico e inorgânico não é uma boa ideia.</h4><br />
             <ol>
               <li>Quando não separamos o lixo orgânico do inorgânico deixamos de fazer a nossa parte em relação ao desenvolvimento sustentável</li>
               <li>Isso por que o lixo inorgânico é composto de material que demora a ser decomposto. Enquanto que o lixo orgânico de progem vegetal ou animal tem um curto período de decomposição. Dessa forma, o lixo inorgânico quando nâo é separado do orgânico pode liberar gases poluentes e não terem o destino correto para realização do Processo de Reciclagem.</li>
