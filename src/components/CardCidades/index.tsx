@@ -3,14 +3,6 @@ import "./assets/styleCardCidades.css";
 const imgRecife = require("../../assets/img/recife.png") as string;
 const imgRepense = require("../../assets/img/repense.png") as string;
 
-const imgWidth = {
-  width: "750px",
-};
-
-const imgWidthRecife = {
-  width: "750px",
-};
-
 const CardCidades = () => {
   return (
     <>
@@ -20,17 +12,16 @@ const CardCidades = () => {
           <br/>
           <br/>
           <br/>
-          <div className="col-md-6">
-            <figure>
-              <img
-                src={imgRecife}
-                className="mx-auto d-block"
-                alt="Cidades Inteligentes"
-                style={imgWidthRecife}
-              />
-            </figure>
+          <div className="col-xl-6 col-lg-8 col-md-3 col-sm-12">
+              <figure>
+                <img
+                  src={imgRecife}
+                  className="mx-auto d-block imgWidthRecife"
+                  alt="Cidades Inteligentes"
+                />
+              </figure>
           </div>
-            <div className="col-md-6 text-center">
+            <div className="col-xl-5 col-lg-4 col-md-9 col-sm text-center">
             <h3 className="d-flex justify-content-start">Recife</h3><br /><br />
               <p>
                 Com artesanato, mulheres de PE reciclam 1 tonelada de plástico por mês... - Veja mais em
@@ -43,7 +34,7 @@ const CardCidades = () => {
         <br />
         <br />
         <div className="row text-center">
-          <div className="col-md-6">
+          <div className="col-xl-6 col-lg-7 col-md-7 col-sm-4">
             <h3 className="text-center">Repense</h3>
             <br/>
             <br/>
@@ -54,13 +45,12 @@ const CardCidades = () => {
               <li>Por isso, REPENSE, seu comportamento. Uma atitude simples de separar o lixo orgânico do inorgânico contribui muito para o Meio Ambiente.</li>
             </ol>
           </div>
-          <div className="col-md-2">
+          <div className="col-xl-2 col-lg-2 col-md-5 col-sm-4">
             <figure>
               <img
                 src={imgRepense}
-                className="mx-auto d-block"
+                className="mx-auto d-block imgWidth"
                 alt="Cidades Inteligentes"
-                style={imgWidth}
               />
             </figure>
           </div>
