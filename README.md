@@ -1,43 +1,42 @@
-# Getting Started with Create React App
+# Site feito para o projeto da faculdade
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Esse projeto foi feito com React, Bootstrap e React-Icons. Feito o deploy no Netlify.
+Projeto o qual foi feito com o intuito de reeducar as pessoas em relação a sustentabilidade e reciclagem. Falando um pouco sobre reciclagem e mostrando os benefíicos e os malefícios, o que é Cidade Inteligente.
 
-## Available Scripts
+## Algumas imagens do projeto, feito
 
-In the project directory, you can run:
+### Imagem da Home
+<!-- Imagem da Home -->
+<p style="align=center;">
+  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+</p>
 
-### `npm start`
+### Imagem das Cidades Inteligentes
+<!-- Imagem da CI -->
+<p style="align=center;">
+  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Imagem do Quem Somos.
+<!-- Imagem da QS -->
+<p style="align=center;">
+  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Para rodar esse projeto, basta:
 
-### `npm run build`
+Existe duas formas de rodar esse site, com
+### 1° `npm start`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Com isso, irá rodar nesse endereço.\
+Abra em -> [http://localhost:3000](http://localhost:3000) para visualizar no navegador que desejar.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 2° E a segunda forma é
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Abrindo no seu navegador.\
+Essa URL[Basta apenas clicar](https://reciclarec.netlify.app/) para, dessa forma, ter mais informações.
 
 ## Learn More
 

@@ -1,5 +1,5 @@
-import CardsImg from "../../components/CardsImg";
-import CardsInfo from "../../components/CardsInfo";
+import CardsImg from "../../components/CardsWithIcon";
+import CardsInfo from "../../components/CardsInformation";
 import { MapaReciclagem } from "../../components/MapaReciclagem";
 import NavBar from "./../../components/NavBar/index";
 import { Footer } from "./../../components/Footer/index";

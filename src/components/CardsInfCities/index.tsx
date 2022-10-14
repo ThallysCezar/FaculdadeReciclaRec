@@ -1,4 +1,4 @@
-import "./assets/styleCardCidades.css";
+import "./style.css";
 
 const imgRecife = require("../../assets/img/recife.png") as string;
 const imgRepense = require("../../assets/img/repense.png") as string;
@@ -34,7 +34,7 @@ const CardCidades = () => {
         <br />
         <br />
         <div className="row text-center">
-        <h3 className="mt-1 mb-5 pb-1">Análise seu modo de pensar</h3><br/><br/>
+        <h3 className="mt-1 mb-5 pb-1">Analise seu modo de pensar</h3><br/><br/>
           <div className="col-xl-6 col-lg-7 col-md-7 col-sm-4">
             <h3 className="text-center">Repense</h3>
             <br/>

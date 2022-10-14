@@ -1,4 +1,4 @@
-import CardCidades from "../../components/CardCidades";
+import CardCidades from "../../components/CardsInfCities";
 import NavBar from "../../components/NavBar";
 import { Footer } from "./../../components/Footer/index";
 import "./style.css";

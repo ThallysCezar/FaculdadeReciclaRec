@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "./assets/styleCardsImg.css";
+import "./style.css";
 
 const city = require("../../assets/icon/city.png") as string;
 const repense = require("../../assets/icon/repense.png") as string;
@@ -14,7 +14,7 @@ const CardsImg = () => {
             <div className="col-xl-10">
               <div className="card rounded-3 text-black border-primary">
                 <div className="row g-0">
-                  <div className="col-lg-6 d-flex align-items-center justify-content-center bg-color">
+                  <div className="col-lg-6 d-flex align-items-center justify-content-center rounded-start  bg-color">
                     {" "}
                     {/* botar o negocio da cor bg-color*/}
                     <figure>

@@ -1,6 +1,6 @@
 import { GiDeathStar } from "react-icons/gi";
 import { FaFacebook, FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
-import "./assets/style.css";
+import "./style.css";
 
 const thallys = require("../../assets/img/Thallys.png") as string;
 const bea = require("../../assets/img/Bea.png") as string;

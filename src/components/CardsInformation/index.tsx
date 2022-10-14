@@ -1,4 +1,4 @@
-import "./assets/styleCardsInfo.css";
+import "./style.css";
 
 const CardsInfo = () => {
   return (
