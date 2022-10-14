@@ -7,20 +7,20 @@ Projeto o qual foi feito com o intuito de reeducar as pessoas em relação a sus
 
 ### Imagem da Home
 <!-- Imagem da Home -->
-<p style="align=center;">
-  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+<p class="text-center justify-content-center align-items-center">
+  <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/HomeImg.jpeg" alt="Home">
 </p>
 
 ### Imagem das Cidades Inteligentes
 <!-- Imagem da CI -->
-<p style="align=center;">
-  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+<p class="text-center justify-content-center align-items-center">
+  <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/CitiesSmartImg.jpeg" alt="CitiesSmarts">
 </p>
 
 ### Imagem do Quem Somos.
 <!-- Imagem da QS -->
-<p style="align=center;">
-  <img src="https://github.com/ThallysCezar/RotaDasOficinas/blob/main/src/assets/extrair.jpeg" alt="extrair">
+<p class="text-center justify-content-center align-items-center">
+  <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/QSImg.jpeg" alt="QuemSomos">
 </p>
 
 
@@ -37,9 +37,3 @@ Abra em -> [http://localhost:3000](http://localhost:3000) para visualizar no nav
 
 Abrindo no seu navegador.\
 Essa URL[Basta apenas clicar](https://reciclarec.netlify.app/) para, dessa forma, ter mais informações.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
