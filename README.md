@@ -11,7 +11,7 @@ Projeto o qual foi feito com o intuito de reeducar as pessoas em relação a sus
   <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/HomeImg.jpeg" alt="Home">
 </p>
 
-### Imagem das Cidades Inteligentes.\
+### Imagem das Cidades Inteligentes&nbsp;
 <!-- Imagem da CI -->
 <p class="text-center justify-content-center align-items-center">
   <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/CitiesSmartImg.jpeg" alt="CitiesSmarts">
