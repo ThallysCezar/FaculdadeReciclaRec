@@ -3,21 +3,21 @@
 Esse projeto foi feito com React, Bootstrap e React-Icons. Feito o deploy no Netlify.
 Projeto o qual foi feito com o intuito de reeducar as pessoas em relação a sustentabilidade e reciclagem. Falando um pouco sobre reciclagem e mostrando os benefíicos e os malefícios, o que é Cidade Inteligente.
 
-## Algumas imagens do projeto, feito
+## Algumas imagens do projeto, feito.\
 
-### Imagem da Home
+### Imagem da Home.\
 <!-- Imagem da Home -->
 <p class="text-center justify-content-center align-items-center">
   <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/HomeImg.jpeg" alt="Home">
 </p>
 
-### Imagem das Cidades Inteligentes
+### Imagem das Cidades Inteligentes.\
 <!-- Imagem da CI -->
 <p class="text-center justify-content-center align-items-center">
   <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/CitiesSmartImg.jpeg" alt="CitiesSmarts">
 </p>
 
-### Imagem do Quem Somos.
+### Imagem do Quem Somos..\
 <!-- Imagem da QS -->
 <p class="text-center justify-content-center align-items-center">
   <img src="https://github.com/ThallysCezar/FaculdadeReciclaRec/blob/main/src/assets/ImgREADME/QSImg.jpeg" alt="QuemSomos">
